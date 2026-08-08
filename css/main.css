@@ -1,0 +1,9 @@
+@import url(../css/header.css);
+@import url(../css/global.css);
+
+
+:root{
+    --yozuv-color:#7f4dff;
+    --nav-color:#f0f2f5;
+    --katalog-color:#e5e5ff;
+}
