@@ -1,9 +1,12 @@
 @import url(../css/header.css);
 @import url(../css/global.css);
-
-
+@import url(../css/reklama.css);
+@import url(../css/cards.css);
+@import url(../css/arzon-narx.css);
+@import url(../css/footer.css);
 :root{
     --yozuv-color:#7f4dff;
     --nav-color:#f0f2f5;
     --katalog-color:#e5e5ff;
+    --others-color:#f0f2f5;
 }
